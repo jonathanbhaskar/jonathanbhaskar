@@ -3,7 +3,7 @@ I'm a Data Lead passionate about making data engineering tooling more accessible
 
 ### Projects
 
-* [dagster-odp](https://github.com/jonathanbhaskar/dagster-odp): A configuration-driven framework that lets data teams build reusable pipelines using YAML/JSON instead of code. Precursor to [Dagster components](https://docs.dagster.io/guides/build/components)
+- **[dagster-odp](https://github.com/jonathanbhaskar/dagster-odp):** A configuration-driven framework that lets data teams build reusable pipelines using YAML/JSON instead of code. Precursor to [Dagster components](https://docs.dagster.io/guides/build/components)
 
 ### Find Me
 
