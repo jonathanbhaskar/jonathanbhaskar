@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Jonathan 👋
+I'm a Data Lead passionate about making data engineering tooling more accessible to everyone. I'm currently working on setting up LLMs to automate the repetitive work involved in building data platforms and pipelines.
 
-<!--
-**jonathanbhaskar/jonathanbhaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
 
-Here are some ideas to get you started:
+#### [dagster-odp](https://github.com/jonathanbhaskar/dagster-odp)
+A configuration-driven framework that lets data teams build reusable pipelines using YAML/JSON instead of code. Precursor to [Dagster components](https://docs.dagster.io/guides/build/components)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find Me
+
+[LinkedIn](https://www.linkedin.com/in/jonathanbhaskar/)
+
+[Blog](https://jonathanb.me/blog)
+
+[Email](mailto:jonathan.bhaskar@gmail.com)
